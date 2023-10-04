@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/</loc>
     <lastmod>2023-10-04T23:07:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/"
                 />
   </url><url>
-    <loc>https://example.org/posts/post1/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/posts/post1/</loc>
     <lastmod>2023-10-04T23:07:32+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/posts/</loc>
     <lastmod>2023-10-04T23:07:32+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/tags/</loc>
     <lastmod>2023-10-04T23:07:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/tags/"
                 />
   </url><url>
-    <loc>https://example.org/tags/untagged/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/tags/untagged/</loc>
     <lastmod>2023-10-04T23:07:32+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/about/</loc>
     <lastmod>2023-10-04T22:53:36+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/categories/"
                 />
   </url>
 </urlset>

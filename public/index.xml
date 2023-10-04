@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emre Apa</title>
-    <link>https://example.org/</link>
+    <link>https://victorious-bay-042228303.3.azurestaticapps.net/</link>
     <description>Recent content on Emre Apa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 23:07:32 +0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 23:07:32 +0300</lastBuildDate><atom:link href="https://victorious-bay-042228303.3.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
-      <link>https://example.org/posts/post1/</link>
+      <link>https://victorious-bay-042228303.3.azurestaticapps.net/posts/post1/</link>
       <pubDate>Wed, 04 Oct 2023 23:07:32 +0300</pubDate>
       
-      <guid>https://example.org/posts/post1/</guid>
+      <guid>https://victorious-bay-042228303.3.azurestaticapps.net/posts/post1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://victorious-bay-042228303.3.azurestaticapps.net/about/</link>
       <pubDate>Wed, 04 Oct 2023 22:53:36 +0300</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://victorious-bay-042228303.3.azurestaticapps.net/about/</guid>
       <description>About Me </description>
     </item>
     

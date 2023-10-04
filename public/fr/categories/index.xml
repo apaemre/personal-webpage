@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Hermit - V2 (FR)</title>
-    <link>https://example.org/fr/categories/</link>
+    <link>https://victorious-bay-042228303.3.azurestaticapps.net/fr/categories/</link>
     <description>Recent content in Categories on Hugo Hermit - V2 (FR)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://example.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

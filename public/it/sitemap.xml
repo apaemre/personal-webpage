@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/it/categories/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/categories/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/categories/"
                 />
   </url><url>
-    <loc>https://example.org/it/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/"
                 />
   </url><url>
-    <loc>https://example.org/it/tags/</loc>
+    <loc>https://victorious-bay-042228303.3.azurestaticapps.net/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/tags/"
+                href="https://victorious-bay-042228303.3.azurestaticapps.net/it/tags/"
                 />
   </url>
 </urlset>

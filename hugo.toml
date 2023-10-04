@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Emre Apa'
+theme = 'hermit-v2'
+
+[params]
+
+  homeSubtitle = "A personal blog by Emre Apa"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 20
+
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
+
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/apaemre"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/apaemre/"

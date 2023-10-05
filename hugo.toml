@@ -33,3 +33,8 @@ theme = 'hermit-v2'
 [[params.social]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/apaemre/"
+
+[[params.social]]
+  name = "email"
+  url = "mailto://apa.emre@metu.edu.tr"
+

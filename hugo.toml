@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Emre Apa'
 theme = 'hermit-v2'
 
+[author]
+  name = "Emre Apa"
+  about = "about"
+
+
 [params]
 
   homeSubtitle = "A personal blog by Emre Apa"
